@@ -41,14 +41,6 @@ def spot_row():
             row += 1
 
 
-# colors = colorgram.extract("/home/roland/Downloads/spots.jpg", 30)
-# rgb_list = []
-# for i in range(0, 29):
-#     color = colors[i]
-#     rgb = (color.rgb.r, color.rgb.g, color.rgb.b)
-#     rgb_list.append(rgb)
-# print(rgb_list)
-
 color_list = [(246, 245, 243), (233, 239, 246), (246, 239, 242), (240, 246, 243), (132, 166, 205), (221, 148, 106),
               (32, 42, 61), (199, 135, 148), (166, 58, 48), (141, 184, 162), (39, 105, 157), (237, 212, 90),
               (150, 59, 66), (216, 82, 71), (168, 29, 33), (235, 165, 157), (51, 111, 90), (35, 61, 55),
